@@ -1,21 +1,5 @@
 
 
-// let lat;
-// let lon;
-// const API_KEY = "ec315bd9c45c0c2cffce8297e7c2c36e";
-// const url =
-//     `http://api.openweathermap.org/geo/1.0/direct?q={city name},{state code},{country code}&limit={limit}&appid=" + API_KEY
-
-// http://api.openweathermap.org/geo/1.0/direct?q={city name},{state code},{country code}&limit={limit}&appid={API key}
-
-
-
-// let lat;
-// let lon;
-// let API_KEY = "c596300e44a2dbdfa3b87cda29ff8d7b";
-// let cityName
-// let url
-
 
 const form = document.querySelector("section.top-banner form");
 const input = document.querySelector(".container input");
@@ -23,7 +7,7 @@ const  msg = document.querySelector("span.msg");
 const list = document.querySelector(".ajax-section ul.cities");
 
 
-// localStorage.setItem("tokenKeyEncrypted", EncryptStringAES("ec315bd9c45c0c2cffce8297e7c2c36e"));
+
 
 localStorage.setItem("tokenKey", "+TxJY0DgN3ufLrO8ovIqJsI7SLN2pTd60VJJWxqHouVvjk4y/4OHA/AFQlrXCSTg");
 
