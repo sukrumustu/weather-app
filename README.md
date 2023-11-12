@@ -1,0 +1,1 @@
+This is a simple weather-app that fetch weather data from [open](https://openweathermap.org/)https://openweathermap.org/. When you enter the region (city, country, state) and submit, the weather information will be shown on the card div. By doing this, I improve my JS, CSS, HTML skills.
